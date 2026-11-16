@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:090B18,50:29205C,100:6654D9&text=DREAMY%20CLIENT&fontColor=FFFFFF&fontSize=58&fontAlignY=45&desc=REDEFINE%20YOUR%20MINECRAFT%20EXPERIENCE&descAlignY=65&descSize=13&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:061A12,50:064E3B,100:16A34A&text=DREAMY%20CLIENT&fontColor=FFFFFF&fontSize=58&fontAlignY=45&desc=REDEFINE%20YOUR%20MINECRAFT%20EXPERIENCE&descAlignY=65&descSize=13&animation=fadeIn" width="100%" />
 
 <br/>
 
@@ -10,9 +10,9 @@
 
 <br/>
 
-[![Website](https://img.shields.io/badge/Website-Dreamy%20Client-7665DF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dreamyclient.ir)
-[![Minecraft](https://img.shields.io/badge/Minecraft-Java%20Edition-3A9B70?style=for-the-badge&logo=minecraft&logoColor=white)](https://www.minecraft.net/)
-[![Discord](https://img.shields.io/badge/Community-Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/fVEBrg3d5D)
+[![Website](https://img.shields.io/badge/Website-Dreamy%20Client-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dreamyclient.ir)
+[![Minecraft](https://img.shields.io/badge/Minecraft-Java%20Edition-15803D?style=for-the-badge&logo=minecraft&logoColor=white)](https://www.minecraft.net/)
+[![Discord](https://img.shields.io/badge/Community-Join%20Discord-166534?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/fVEBrg3d5D)
 
 </div>
 
@@ -124,11 +124,11 @@ Our priorities are simple:
 <div align="center">
 
 <a href="https://dreamyclient.ir">
-  <img src="https://img.shields.io/badge/EXPLORE%20OUR%20WEBSITE-7665DF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/EXPLORE%20OUR%20WEBSITE-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 <a href="https://discord.gg/fVEBrg3d5D">
-  <img src="https://img.shields.io/badge/JOIN%20OUR%20COMMUNITY-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/JOIN%20OUR%20COMMUNITY-166534?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
 <br/><br/>
@@ -141,7 +141,7 @@ We would love to hear from you.
 
 ---
 
-## 💜 Our Philosophy
+## 💚 Our Philosophy
 
 > Great experiences are created through attention to detail, continuous improvement, and a genuine passion for what we build.
 
@@ -153,7 +153,7 @@ Dreamy Client is built around one simple idea:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6654D9,50:29205C,100:090B18&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16A34A,50:064E3B,100:061A12&height=120&section=footer" width="100%" />
 
 **DREAMY CLIENT**
 
@@ -162,17 +162,3 @@ Dreamy Client is built around one simple idea:
 <sub>© Dreamy Client. All rights reserved.</sub>
 
 </div>
-<!--
-**DreamyClient/DreamyClient** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
